@@ -1,0 +1,24 @@
+{
+  "name": "recursive",
+  "version": "1.0.0",
+  "description": "Hactive8 Test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kikikiswanto/hactive8.git"
+  },
+  "keywords": [
+    "nodejs",
+    "js"
+  ],
+  "author": "kiki kiswanto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kikikiswanto/hactive8/issues"
+  },
+  "homepage": "https://github.com/kikikiswanto/hactive8#readme"
+}
